@@ -1,6 +1,6 @@
 
 let listaDeNumerosSorteados = [];
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 
 // Função que gera um número aleatório;
 function gerarNumeroAleatorio() {
