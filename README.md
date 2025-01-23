@@ -1,1 +1,1 @@
-Criando esse readme apenas para exercitar;
+Criando esse readme para praticar alguns comandos. 
