@@ -1,1 +1,1 @@
-Criando esse readme com o intuito apenas de exercitar alguns comandos;
+readme apagado, para testar o revert;
