@@ -1,0 +1,1 @@
+Criando esse readme apenas para exercitar;
